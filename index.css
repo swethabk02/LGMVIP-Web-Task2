@@ -1,0 +1,18 @@
+body {
+  margin:auto;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align:center;
+  background-color: gray;
+  font-size: medium;
+  font-weight: bold;
+  font-style: italic;
+}
+h1{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-decoration: underline dashed;
+  padding-bottom: 20px;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
